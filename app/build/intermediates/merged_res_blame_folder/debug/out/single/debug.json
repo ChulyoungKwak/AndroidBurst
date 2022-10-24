@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/kwak/.gradle/daemon/7.3.3/com.example.android.camera2.fusion.app-merged_res-21:/navigation_nav_graph.xml.flat",
+        "source": "/Users/kwak/.gradle/daemon/7.3.3/com.example.android.camera2.fusion.app-main-23:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/Users/kwak/.gradle/daemon/7.3.3/com.example.android.camera2.fusion.app-merged_res-21:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/kwak/.gradle/daemon/7.3.3/com.example.android.camera2.fusion.app-main-23:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kwak/.gradle/daemon/7.3.3/com.example.android.camera2.fusion.app-merged_res-21:/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/kwak/.gradle/daemon/7.3.3/com.example.android.camera2.fusion.app-main-23:/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kwak/.gradle/daemon/7.3.3/com.example.android.camera2.fusion.app-merged_res-21:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/kwak/.gradle/daemon/7.3.3/com.example.android.camera2.fusion.app-main-23:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kwak/.gradle/daemon/7.3.3/com.example.android.camera2.fusion.app-merged_res-21:/layout-land_fragment_camera.xml.flat",
+        "source": "/Users/kwak/.gradle/daemon/7.3.3/com.example.android.camera2.fusion.app-main-23:/layout-land/fragment_camera.xml"
+    },
+    {
+        "merged": "/Users/kwak/.gradle/daemon/7.3.3/com.example.android.camera2.fusion.app-merged_res-21:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/kwak/.gradle/daemon/7.3.3/com.example.android.camera2.fusion.app-main-23:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.camera2.fusion.app-merged_res-21:/layout_fragment_camera.xml.flat",
+        "source": "com.example.android.camera2.fusion.app-main-23:/layout/fragment_camera.xml"
+    },
+    {
+        "merged": "/Users/kwak/.gradle/daemon/7.3.3/com.example.android.camera2.fusion.app-merged_res-21:/layout_activity_camera.xml.flat",
+        "source": "/Users/kwak/.gradle/daemon/7.3.3/com.example.android.camera2.fusion.app-main-23:/layout/activity_camera.xml"
+    },
+    {
+        "merged": "/Users/kwak/.gradle/daemon/7.3.3/com.example.android.camera2.fusion.app-merged_res-21:/drawable_ic_photo.xml.flat",
+        "source": "/Users/kwak/.gradle/daemon/7.3.3/com.example.android.camera2.fusion.app-main-23:/drawable/ic_photo.xml"
+    },
+    {
+        "merged": "/Users/kwak/.gradle/daemon/7.3.3/com.example.android.camera2.fusion.app-merged_res-21:/layout_fragment_camera.xml.flat",
+        "source": "/Users/kwak/.gradle/daemon/7.3.3/com.example.android.camera2.fusion.app-main-23:/layout/fragment_camera.xml"
+    }
+]

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FusionTest.iml" filepath="$PROJECT_DIR$/.idea/modules/FusionTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FusionTest.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FusionTest.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FusionTest.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FusionTest.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FusionTest.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FusionTest.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FusionTest.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FusionTest.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils/FusionTest.utils.iml" filepath="$PROJECT_DIR$/.idea/modules/utils/FusionTest.utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils/FusionTest.utils.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/utils/FusionTest.utils.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils/FusionTest.utils.main.iml" filepath="$PROJECT_DIR$/.idea/modules/utils/FusionTest.utils.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils/FusionTest.utils.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/utils/FusionTest.utils.unitTest.iml" />
+    </modules>
+  </component>
+</project>
